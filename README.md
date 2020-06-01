@@ -6,3 +6,5 @@ sina
 
 ## Test my first changes
 >>>>>>> master
+
+second sina change 
